@@ -1,0 +1,8 @@
+[package]
+name = "ptyd"
+version = "0.0.1"
+authors = ["luozijun <luozijun.assistant@gmail.com>"]
+
+
+[dependencies]
+redox_termios = "0.1"
